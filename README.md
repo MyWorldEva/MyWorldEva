@@ -1,6 +1,6 @@
 ### Hi, I’m Eva! 👋
 - 👀 I’m interested in coding bots and creating websites.
-- 🤖 I will be posting how-to properly code a bot in JavaScript, Python, and TypeScript.
+- 🤖 I will be posting how-to properly code a bot in JavaScript and Python.
 - 🌱 I’m currently learning JS (JavaScript) and Java.
 - 📫 How to reach me: Gmail - halinpalin467@gmail.com , [Youtube - Quester](https://www.youtube.com/channel/UCP50VU_vAMGOH6cY4lfR1qg)
 - 😄 Pronouns: She/Her
