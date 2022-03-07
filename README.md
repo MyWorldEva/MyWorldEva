@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Eva!
+### Hi, I’m Eva! 👋
 - 👀 I’m interested in coding bots, websites.
 - 🤖 I will be posting how-to properly code a bot in JavaScript, Python and TypeScript.
 - 🌱 I’m currently learning JS (JavaScript) and Java.
