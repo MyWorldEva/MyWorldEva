@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding bots and creating websites.
 - 🤖 I will be posting how-to properly code a bot in JavaScript and Python.
 - 🌱 I’m currently learning JS (JavaScript) and Java.
-- 📫 How to reach me: Gmail - halinpalin467@gmail.com , [Youtube - Quester](https://www.youtube.com/channel/UCP50VU_vAMGOH6cY4lfR1qg)
+- 📫 How to reach me: Gmail - halinpalin467@gmail.com , [Youtube - Quester](https://www.youtube.com/channel/UCP50VU_vAMGOH6cY4lfR1qg) , [Steam - Eva](https://steamcommunity.com/profiles/76561198860656732/)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: If I could go anywhere I want, I would go to Japan.
 
