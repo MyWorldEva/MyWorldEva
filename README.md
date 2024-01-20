@@ -1,4 +1,4 @@
-## Hi, I’m Eva! 👋
+## Hi, I’m Leak! 👋
 * 👀 I’m interested in coding bots and creating websites.
 * 🤖 I will be posting how-to properly code a bot in JavaScript and Python.
 * 🌱 I’m currently learning JS, Java, and C++.
